@@ -46,6 +46,6 @@ class Thumbnail extends Widget
                 '{title}' => $this->title,
                 '{description}' => $this->description,
             ]
-        );        
+        );
     }
 }
